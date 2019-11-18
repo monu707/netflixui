@@ -1,0 +1,22 @@
+
+body{
+     background-color: #000;
+     color: #fff;
+}
+
+.responsive{
+     position: relative;
+}
+
+.img-vid-bx{
+     cursor: pointer;
+     padding:5px;
+}
+.img-vid-bx .img{
+     height: 200px;     
+}
+.img-vid-bx .img img{
+     height: 100%;
+     width: 100%;
+     object-fit: cover;
+}
